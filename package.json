@@ -1,0 +1,11 @@
+{
+  "name": "restful-api-express-example",
+  "version": "1.0.0",
+  "description": "Making restful apis using express framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Kumar",
+  "license": "ISC"
+}
